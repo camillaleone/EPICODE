@@ -1,0 +1,44 @@
+{
+ "CD": [{
+ 	"Casa_discografica":"Sugar Music",
+ 	"Artista": "Madame",
+ 	"Pubblicazione": "31-03-2023",
+ 	"Durata": ["CD 46:11", "Digitale 53:16", "Amazon Music 60:35"],
+ 	"Numero Tracce": ["CD 14,", "Digitale 16", "Amazon Music 18"],
+ 	"Genere": ["Musica d'autore","Musica elettronica"],
+ 	"Produttore": ["Dardust","Antonio Filippelli", "Bias","Chris Nolan", "Gianmarco Manilardi", "BRAIL", "Dario Pruneddu", "Luca Faraone", "Shablo"],
+ 	"Tracce": [
+ 	{
+ 		"Traccia 1": "Aranciata",
+ 		"Durata": "3:14",
+ 		"Testo": ["Francesca Calearo","Michele Zocca"]
+ 	}
+    { "Traccia 2": "Il bene nel male",
+    	"Durata": "3:33",
+    	"Musica": ["Francesca Calearo", "Nicolas Biasin", "Iacopo Sinigaglia"]
+
+}
+
+]
+ }]
+
+
+
+ 
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+	
+
+
+
+

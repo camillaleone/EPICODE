@@ -1,0 +1,45 @@
+{
+  "rubrica": [
+    {
+      "nome": "gabriele",
+      "cognome": "ricioppo",
+      "telefono": "+123456789",
+      "email": "gabriele@epicode.it",
+      "data di nascita": "01-01-1990",
+      "luogo": "roma",
+      "professione": "cuoco",
+      "colore capelli": "biondo",
+    }, 
+    {
+       "nome": "leandros",
+      "cognome": "kouros",
+      "telefono": "+123456789",
+      "email": "leandros@epicode.it",
+      "data di nascita": "02-02-1990",
+      "luogo": "bari",
+      "professione": "ragioniere",
+      "colore capelli": "neri",
+    },
+    {
+       "nome": "sofia",
+      "cognome": "liossis",
+      "telefono": "+123456789",
+      "email": "sofia@epicode.it",
+      "data di nascita": "03-03-1990",
+      "luogo": "napoli",
+      "professione": "contabile",
+      "colore capelli": "neri",
+    }
+
+{
+       "nome": "camilla",
+      "cognome": "leone",
+      "telefono": "+123456789",
+      "email": "camilla@epicode.it",
+      "data di nascita": "04-04-1990",
+      "luogo": "torino",
+      "professione": "ottico",
+      "colore capelli": "neri",
+    }
+  ]
+}
